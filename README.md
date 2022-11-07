@@ -1,7 +1,7 @@
 # fatal-police-shootings-graphs
 Two graphs based on The Washington Post Fatal Police Shootings Data:
 The first graph shows total shootings by race (Asian, Black, Hispanic, Native American, White) per 100k population each year.
-![graph1](images/figure1_armed_shooting.png)
+![graph1](images/figure1_armed_shootings.png)
 
 The second graph is a stacked area chart showing the percentages of unarmed/armed shootings. 
 ![graph2](images/figure2_by_race.png)
